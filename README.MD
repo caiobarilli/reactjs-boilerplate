@@ -7,6 +7,7 @@ Boilerplate com recursos já previamente implementados para aumentar a produtivi
 Faça o download do boilerplate com os pacotes:
 
 [Prettier](https://prettier.io/)
+| [Vite](https://vitejs.dev/)
 
 com o comando:
 
