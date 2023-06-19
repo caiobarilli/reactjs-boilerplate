@@ -12,7 +12,7 @@ Faça o download do boilerplate com os pacotes:
 com o comando:
 
 ```sh
-npx create-react-app my-app --template https://github.com/caiobarilli/reactjs-boilerplate/tree/main/vite-eslint-prettier
+npx degit caiobarilli/reactjs-boilerplate/vite-eslint-prettier seu-nome-de-projeto
 ```
 <br>
 
@@ -26,5 +26,5 @@ Faça o download do boilerplate com os pacotes:
 com o comando:
 
 ```sh
-npx create-react-app my-app --template https://github.com/caiobarilli/reactjs-boilerplate/tree/main/vite-plopjs-styledcomponents
+npx degit caiobarilli/reactjs-boilerplate/vite-plopjs-styledcomponents seu-nome-de-projeto
 ```
